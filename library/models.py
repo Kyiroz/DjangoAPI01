@@ -18,3 +18,4 @@ class Books(models.Model):
         name = self.title
         return name
 
+    
